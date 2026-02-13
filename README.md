@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙ Engineer student of Telecommunication, passionate in coding 
+⚙ Engineer student of Telecommunication, passionate in coding <br>
 🔭 I’m currently working on personal projects in Python with backend <br>
 
 # 💻 Tech Stack:
