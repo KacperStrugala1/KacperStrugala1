@@ -1,6 +1,7 @@
 # 💫 About Me:
 ⚙ Engineer student of Telecommunication, passionate in coding <br>
 🔭 I’m currently working on personal projects in Python with backend <br>
+👓 Learning about DevOps
 
 # 💻 Tech Stack:
 Languages and Frameworks: <br>
