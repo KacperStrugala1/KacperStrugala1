@@ -1,7 +1,7 @@
 # 💫 About Me:
 ⚙ Engineer student of Telecommunication, passionate in coding <br>
-🔭 I’m currently working on personal projects in Python with backend <br>
-👓 Developing my skills with DevOps
+🔭 I’m currently working on personal projects in Python with backend and automatization <br>
+
 
 # 💻 Tech Stack:
 Languages and Frameworks: <br>
@@ -16,7 +16,6 @@ Tools, etc: <br>
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)<br>
-Currently learning: <br>
 
 
 
